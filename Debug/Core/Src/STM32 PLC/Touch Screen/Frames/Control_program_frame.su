@@ -1,0 +1,6 @@
+Control_program_frame.c:406:16:set_parameters.constprop	96	static
+Control_program_frame.c:50:6:STM32_PLC_LCD_Set_Control_Program	0	static
+Control_program_frame.c:55:6:STM32_PLC_LCD_Set_Program_Parameters	0	static
+Control_program_frame.c:59:9:STM32_PLC_LCD_Get_Control_Program	0	static
+Control_program_frame.c:63:6:STM32_PLC_LCD_Show_Control_Program_Settings_Frame	1528	static
+Control_program_frame.c:235:6:STM32_PLC_LCD_Execute_Control_Program	80	static

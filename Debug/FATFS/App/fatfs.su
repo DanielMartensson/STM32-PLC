@@ -1,0 +1,3 @@
+fatfs.c:27:6:MX_FATFS_DeInit	8	static
+fatfs.c:32:6:MX_FATFS_Init	8	static
+fatfs.c:49:7:get_fattime	0	static

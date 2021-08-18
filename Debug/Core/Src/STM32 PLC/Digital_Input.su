@@ -1,0 +1,2 @@
+Digital_Input.c:10:6:STM32_PLC_Digital_Input_Get	8	static
+Digital_Input.c:33:6:STM32_PLC_Digital_Input_Get_Stop	8	static

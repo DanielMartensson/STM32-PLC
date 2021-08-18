@@ -1,0 +1,2 @@
+DM15.c:14:25:SAE_J1939_Send_Response_DM15	24	static
+DM15.c:32:6:SAE_J1939_Read_Response_DM15	8	static

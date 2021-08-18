@@ -1,0 +1,5 @@
+LCD.c:19:6:STM32_PLC_Start_LCD	24	static
+LCD.c:122:6:STM32_PLC_LCD_Calibrate_Touch	0	static
+LCD.c:126:6:STM32_PLC_LCD_Get_Touch_Calibration_Parameters	0	static
+LCD.c:130:6:STM32_PLC_LCD_Set_Touch_Calibration_Parameters	0	static
+LCD.c:134:6:STM32_PLC_LCD_Get_Touch_Data	0	static

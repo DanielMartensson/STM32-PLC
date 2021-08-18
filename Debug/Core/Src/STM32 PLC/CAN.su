@@ -1,0 +1,4 @@
+CAN.c:15:6:STM32_PLC_Start_CAN	48	static
+CAN.c:24:19:STM32_PLC_CAN_Transmit	16	static
+CAN.c:30:6:STM32_PLC_CAN_Get_ID_Data	64	dynamic
+CAN.c:80:6:HAL_CAN_RxFifo0MsgPendingCallback	0	static

@@ -1,0 +1,4 @@
+SAE_J1939_Name_frame.c:119:13:show_name_frame	88	static
+SAE_J1939_Name_frame.c:102:16:show_numpad_question	32	static
+SAE_J1939_Name_frame.c:15:6:STM32_PLC_LCD_Show_SAE_J1939_This_ECU_Name_Frame	224	static
+SAE_J1939_Name_frame.c:87:6:STM32_PLC_LCD_Show_SAE_J1939_Other_ECU_Name_Frame	24	static

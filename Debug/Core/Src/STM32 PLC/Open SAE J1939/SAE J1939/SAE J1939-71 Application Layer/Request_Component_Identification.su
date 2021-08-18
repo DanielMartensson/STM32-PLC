@@ -1,0 +1,3 @@
+Request_Component_Identification.c:14:25:SAE_J1939_Send_Request_Component_Identification	0	static
+Request_Component_Identification.c:22:25:SAE_J1939_Response_Request_Component_Identification	56	dynamic
+Request_Component_Identification.c:62:6:SAE_J1939_Read_Response_Request_Component_Identification	20	static

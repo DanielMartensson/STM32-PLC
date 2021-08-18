@@ -1,0 +1,4 @@
+UART.c:17:6:STM32_PLC_UART_Start	0	static
+UART.c:22:6:STM32_PLC_UART_Transmit	0	static
+UART.c:26:9:STM32_PLC_UART_Receive	8	static
+UART.c:31:6:HAL_UART_RxCpltCallback	0	static

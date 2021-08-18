@@ -1,0 +1,3 @@
+DM1.c:14:25:SAE_J1939_Send_Request_DM1	0	static
+DM1.c:22:25:SAE_J1939_Response_Request_DM1	48	static
+DM1.c:60:6:SAE_J1939_Read_Response_Request_DM1	12	static

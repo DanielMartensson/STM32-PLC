@@ -1,0 +1,2 @@
+DM14.c:14:25:SAE_J1939_Send_Request_DM14	24	static
+DM14.c:32:25:SAE_J1939_Read_Request_DM14	80	dynamic

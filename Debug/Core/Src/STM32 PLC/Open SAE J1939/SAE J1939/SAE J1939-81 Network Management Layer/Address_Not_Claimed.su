@@ -1,0 +1,2 @@
+Address_Not_Claimed.c:14:25:SAE_J1939_Send_Address_Not_Claimed	16	static
+Address_Not_Claimed.c:32:6:SAE_J1939_Read_Address_Not_Claimed	8	static

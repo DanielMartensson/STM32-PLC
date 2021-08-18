@@ -1,0 +1,2 @@
+Transport_Protocol_Data_Transfer.c:14:6:SAE_J1939_Read_Transport_Protocol_Data_Transfer	56	dynamic
+Transport_Protocol_Data_Transfer.c:75:25:SAE_J1939_Send_Transport_Protocol_Data_Transfer	40	static

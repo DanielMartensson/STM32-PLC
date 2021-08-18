@@ -1,0 +1,3 @@
+Pulse_Counter.c:12:6:STM32_PLC_Pulse_Count_Set	0	static
+Pulse_Counter.c:16:10:STM32_PLC_Pulse_Count_Get	0	static
+Pulse_Counter.c:20:6:STM32_PLC_Pulse_Count_Reset	0	static

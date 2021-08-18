@@ -1,0 +1,2 @@
+Transport_Protocol_Connection_Management.c:31:25:SAE_J1939_Send_Transport_Protocol_Connection_Management	24	static
+Transport_Protocol_Connection_Management.c:14:6:SAE_J1939_Read_Transport_Protocol_Connection_Management	32	static

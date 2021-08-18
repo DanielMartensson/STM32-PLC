@@ -1,0 +1,2 @@
+LED.c:23:6:LED	8	static
+LED.c:13:6:STM32_PLC_LED	16	static

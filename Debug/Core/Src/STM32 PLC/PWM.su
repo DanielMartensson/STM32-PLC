@@ -1,0 +1,6 @@
+PWM.c:14:6:STM32_PLC_Start_PWM	16	static
+PWM.c:36:6:STM32_PLC_PWM_Set	0	static
+PWM.c:73:10:STM32_PLC_PWM_Get	0	static
+PWM.c:77:6:STM32_PLC_PWM_Reset	8	static
+PWM.c:82:6:STM32_PLC_PWM0_To_PWM3_Set_Prescaler	0	static
+PWM.c:87:6:STM32_PLC_PWM4_To_PWM7_Set_Prescaler	0	static
