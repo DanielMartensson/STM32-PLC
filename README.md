@@ -78,3 +78,5 @@ The STM32 PLC has a lot of functions you can select by touching the LCD.
  * KiCAD: 5.1.10
  * STM32CubeIDE 1.9.0
 
+## Status of the project
+It's done. I don't plan to update this project. Everything is working and it will remain that way.
