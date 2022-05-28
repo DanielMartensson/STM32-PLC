@@ -1,5 +1,7 @@
 # STM32 PLC
 
+![a](https://raw.githubusercontent.com/DanielMartensson/STM32-PLC/main/Documentation/Pinmap.png)
+
 This project is a PCB bord that has the following measurement and control input/output:
 
  * 12 x ADC at 16-bit resolution for 0-20mA input with programmable gain
@@ -10,7 +12,7 @@ This project is a PCB bord that has the following measurement and control input/
  * 1 x CAN-bus channel
  * 4 x Input Capture for 0 kHz to 10kHz
  * 3 x Encoder for -32768 to 32767 pulses
- * 1 x USB port for connecting with [OpenSourceLogger]('https://github.com/DanielMartensson/OpenSourceLogger')
+ * 1 x USB port for connecting with [OpenSourceLogger](https://github.com/DanielMartensson/OpenSourceLogger)
  * 1 x SPI with 3 chip select for ILI9341 LCD with touch
  * 1 x ST-Link V2 connection
  * 1 x RTC clock with two alarms A(date) and B(week day) and a battery holder so the RTC remembers the date and time
@@ -27,7 +29,7 @@ The documentation for the pin map can be found in the `Documentation` folder. Al
 Yes, it's possible to set the calibration to each input in this project. You need to have the ILI9341 touch LCD with SPI bus. Open the `STM32 PLC Pinouts.pdf` and see the connection for the LCD. You can also set the PWM frequency and analog input gain for the ADC and Differential ADC at 16-bit. 
 
 ## SAE J1939
-The STM32 PLC has internal SAE J1939 protocol. Made from [Open-SAE-J1939]('https://github.com/DanielMartensson/Open-SAE-J1939').
+The STM32 PLC has internal SAE J1939 protocol. Made from [Open-SAE-J1939](https://github.com/DanielMartensson/Open-SAE-J1939).
 
 ## OpenSourceLogger
 This is a QT C++ software that you can connect to your STM32 PLC board via the USB and then you can send signals from OpenSourceLogger and recieve signals.
