@@ -64,12 +64,12 @@ The STM32 PLC has a lot of functions you can select by touching the LCD.
 
  1. Download this repository
  2. Download & Install KiCad
- 3. Open the PCB project and greate a `gerber` file of your own choice
+ 3. Open the `PCB` folder and open the `.pro` file and greate a `gerber` file of your own choice
  4. Go to your PCB manufacturer and give them the `gerber` file and let them produce the board for you
  5. Order the eletrical components from `Mouser Electronics`
  6. Once you have the eletrical components and your PCB board, it's time to solder them.
  7. Once the PCB board is finished, then install STM32CubeIDE
- 8. Open the `Code` project and import the project
+ 8. Open the `Code` project and import the `.ioc` project file using STM32CubeIDE
  9. Flash the board with the `C` code by using ST-Link V2 connection
  10. Connect the ILI9431 touch LCD and then you are done!
 
