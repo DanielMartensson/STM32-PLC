@@ -64,7 +64,7 @@ The STM32 PLC has a lot of functions you can select by touching the LCD.
 
  1. Download this repository
  2. Download & Install KiCad
- 3. Open the `PCB` folder and open the `.pro` file and greate a `gerber` file of your own choice
+ 3. Open the `PCB` folder and open the `.pro` file with KiCAD and greate a `gerber` file of your own choice
  4. Go to your PCB manufacturer and give them the `gerber` file and let them produce the board for you
  5. Order the eletrical components from `Mouser Electronics`
  6. Once you have the eletrical components and your PCB board, it's time to solder them.
