@@ -1,3 +1,0 @@
-CAN_Network.c:60:25:CAN_Send_Message	40	static
-CAN_Network.c:88:25:CAN_Send_Request	40	static
-CAN_Network.c:114:6:CAN_Read_Message	16	static

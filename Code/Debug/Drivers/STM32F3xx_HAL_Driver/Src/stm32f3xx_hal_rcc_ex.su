@@ -1,0 +1,4 @@
+../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_rcc_ex.c:1533:17:RCC_GetPLLCLKFreq	0	static
+../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_rcc_ex.c:107:19:HAL_RCCEx_PeriphCLKConfig	40	static,ignoring_inline_asm
+../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_rcc_ex.c:575:6:HAL_RCCEx_GetPeriphCLKConfig	0	static
+../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_rcc_ex.c:946:10:HAL_RCCEx_GetPeriphCLKFreq	32	static,ignoring_inline_asm

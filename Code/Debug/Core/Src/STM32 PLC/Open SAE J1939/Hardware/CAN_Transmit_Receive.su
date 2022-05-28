@@ -1,0 +1,3 @@
+../Core/Src/STM32 PLC/Open SAE J1939/Hardware/CAN_Transmit_Receive.c:62:25:CAN_Send_Message	32	static
+../Core/Src/STM32 PLC/Open SAE J1939/Hardware/CAN_Transmit_Receive.c:91:25:CAN_Send_Request	32	static
+../Core/Src/STM32 PLC/Open SAE J1939/Hardware/CAN_Transmit_Receive.c:118:6:CAN_Read_Message	16	static

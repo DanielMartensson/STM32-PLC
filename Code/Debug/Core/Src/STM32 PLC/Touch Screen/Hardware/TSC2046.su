@@ -1,0 +1,9 @@
+../Core/Src/STM32 PLC/Touch Screen/Hardware/TSC2046.c:11:17:TSC2046_SendCommand	24	static
+../Core/Src/STM32 PLC/Touch Screen/Hardware/TSC2046.c:30:17:TSC2046_getRaw_Y	0	static
+../Core/Src/STM32 PLC/Touch Screen/Hardware/TSC2046.c:26:17:TSC2046_getRaw_X	0	static
+../Core/Src/STM32 PLC/Touch Screen/Hardware/TSC2046.c:51:13:TSC2046_GetRawTouch	16	static
+../Core/Src/STM32 PLC/Touch Screen/Hardware/TSC2046.c:145:6:TSC2046_GetTouchCalibrationParameters	12	static
+../Core/Src/STM32 PLC/Touch Screen/Hardware/TSC2046.c:152:6:TSC2046_SetTouchCalibrationParameters	0	static
+../Core/Src/STM32 PLC/Touch Screen/Hardware/TSC2046.c:160:6:TSC2046_GetTouchData	96	static
+../Core/Src/STM32 PLC/Touch Screen/Hardware/TSC2046.c:180:6:TSC2046_isPressed	8	static
+../Core/Src/STM32 PLC/Touch Screen/Hardware/TSC2046.c:89:6:TSC2046_Calibrate	32	static

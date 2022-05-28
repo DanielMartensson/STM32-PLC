@@ -1,3 +1,0 @@
-Address_Claimed.c:14:25:SAE_J1939_Send_Request_Address_Claimed	0	static
-Address_Claimed.c:22:25:SAE_J1939_Response_Request_Address_Claimed	16	static
-Address_Claimed.c:40:6:SAE_J1939_Read_Response_Request_Address_Claimed	8	static

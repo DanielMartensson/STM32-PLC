@@ -1,2 +1,0 @@
-Request.c:16:6:SAE_J1939_Read_Request	24	static
-Request.c:61:25:SAE_J1939_Send_Request	16	static

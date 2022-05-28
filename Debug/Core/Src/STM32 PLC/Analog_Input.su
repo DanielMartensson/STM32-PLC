@@ -1,8 +1,0 @@
-Analog_Input.c:23:6:STM32_PLC_Start_Analog_Input	24	static
-Analog_Input.c:68:6:STM32_PLC_Analog_Input_Set_Gain_Offset	48	static
-Analog_Input.c:167:10:STM32_PLC_Analog_Input_ADC_Get_Raw	0	static
-Analog_Input.c:162:7:STM32_PLC_Analog_Input_ADC_Get	8	static
-Analog_Input.c:175:6:STM32_PLC_Analog_Input_ADC_Set_Calibration	0	static
-Analog_Input.c:181:7:STM32_PLC_Analog_Input_DADC_Get	0	static
-Analog_Input.c:186:9:STM32_PLC_Analog_Input_DADC_Get_Raw	0	static
-Analog_Input.c:191:6:STM32_PLC_Analog_Input_DADC_Set_Calibration	0	static

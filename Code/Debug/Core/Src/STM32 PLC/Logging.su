@@ -1,0 +1,7 @@
+Logging.c:21:6:STM32_PLC_Logging_Timer	0	static
+Logging.c:25:6:STM32_PLC_Logging_Timer_Change_Prescaler	24	static
+Logging.c:45:6:STM32_PLC_Logging_Timer_Start	0	static
+Logging.c:52:6:STM32_PLC_Logging_Timer_Stop	0	static
+Logging.c:56:6:STM32_PLC_Logging_Timer_Pause	0	static
+Logging.c:60:6:STM32_PLC_Logging_Timer_Resume	0	static
+Logging.c:65:6:HAL_TIM_PeriodElapsedCallback_For_Logging	352	static

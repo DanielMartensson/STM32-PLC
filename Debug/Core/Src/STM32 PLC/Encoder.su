@@ -1,4 +1,0 @@
-Encoder.c:15:6:STM32_PLC_Start_Encoder	16	static
-Encoder.c:35:9:STM32_PLC_Encoder_Get_Raw	0	static
-Encoder.c:27:7:STM32_PLC_Encoder_Get	8	static
-Encoder.c:43:6:STM32_PLC_Encoder_Set_Pulses_Per_Revolutions	0	static

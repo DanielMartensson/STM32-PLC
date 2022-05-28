@@ -1,0 +1,3 @@
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-71_Application_Layer/Request_ECU_Identification.c:16:25:SAE_J1939_Send_Request_ECU_Identification	0	static
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-71_Application_Layer/Request_ECU_Identification.c:24:25:SAE_J1939_Response_Request_ECU_Identification	40	static
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-71_Application_Layer/Request_ECU_Identification.c:70:6:SAE_J1939_Read_Response_Request_ECU_Identification	20	static

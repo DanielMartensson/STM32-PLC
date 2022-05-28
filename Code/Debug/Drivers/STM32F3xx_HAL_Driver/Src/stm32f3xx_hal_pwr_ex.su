@@ -1,0 +1,7 @@
+../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pwr_ex.c:129:6:HAL_PWR_ConfigPVD	0	static
+../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pwr_ex.c:171:6:HAL_PWR_EnablePVD	0	static
+../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pwr_ex.c:180:6:HAL_PWR_DisablePVD	0	static
+../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pwr_ex.c:207:13:HAL_PWR_PVDCallback	0	static
+../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pwr_ex.c:190:6:HAL_PWR_PVD_IRQHandler	8	static
+../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pwr_ex.c:228:6:HAL_PWREx_EnableSDADC	8	static
+../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pwr_ex.c:245:6:HAL_PWREx_DisableSDADC	0	static

@@ -1,2 +1,0 @@
-Plot_frame.c:95:13:add_spaces.constprop	8	static
-Plot_frame.c:14:6:STM32_PLC_LCD_Show_Plot_Frame	128	static

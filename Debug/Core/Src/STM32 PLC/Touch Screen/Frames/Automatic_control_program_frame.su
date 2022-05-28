@@ -1,3 +1,0 @@
-Automatic_control_program_frame.c:14:6:STM32_PLC_LCD_Set_Automatic_Control_Program	0	static
-Automatic_control_program_frame.c:19:6:STM32_PLC_LCD_Show_Automatic_Control_Program_Settings_Frame	40	static
-Automatic_control_program_frame.c:82:6:STM32_PLC_LCD_Execute_Automatic_Control_Program	0	static

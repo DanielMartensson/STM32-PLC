@@ -1,9 +1,0 @@
-TSC2046.c:11:17:TSC2046_SendCommand	24	static
-TSC2046.c:30:17:TSC2046_getRaw_Y	0	static
-TSC2046.c:26:17:TSC2046_getRaw_X	0	static
-TSC2046.c:50:13:TSC2046_GetRawTouch	88	static
-TSC2046.c:144:6:TSC2046_GetTouchCalibrationParameters	12	static
-TSC2046.c:151:6:TSC2046_SetTouchCalibrationParameters	8	static
-TSC2046.c:159:6:TSC2046_GetTouchData	96	static
-TSC2046.c:179:6:TSC2046_isPressed	8	static
-TSC2046.c:88:6:TSC2046_Calibrate	32	static

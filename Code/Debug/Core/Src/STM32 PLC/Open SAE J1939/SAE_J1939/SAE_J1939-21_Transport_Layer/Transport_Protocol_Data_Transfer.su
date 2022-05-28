@@ -1,0 +1,2 @@
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-21_Transport_Layer/Transport_Protocol_Data_Transfer.c:18:6:SAE_J1939_Read_Transport_Protocol_Data_Transfer	56	dynamic
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-21_Transport_Layer/Transport_Protocol_Data_Transfer.c:79:25:SAE_J1939_Send_Transport_Protocol_Data_Transfer	32	static

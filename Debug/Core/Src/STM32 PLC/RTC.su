@@ -1,8 +1,0 @@
-RTC.c:12:6:STM32_PLC_Start_RTC	0	static
-RTC.c:16:6:STM32_PLC_RTC_Get_Date	24	static
-RTC.c:24:6:STM32_PLC_RTC_Set_Date	16	static
-RTC.c:33:6:STM32_PLC_RTC_Get_Time	40	static
-RTC.c:41:6:STM32_PLC_RTC_Set_Time	40	static
-RTC.c:50:6:STM32_PLC_RTC_Set_AlarmA	56	static
-RTC.c:67:6:STM32_PLC_RTC_Set_AlarmB	56	static
-RTC.c:84:6:STM32_PLC_RTC_Get_AlarmAB	96	static
