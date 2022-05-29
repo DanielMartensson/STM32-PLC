@@ -56,6 +56,12 @@ void STM32_PLC_LCD_Show_Date_Time_Alarm_Settings_Frame(uint8_t *frame_id) {
 	/* Logic for button */
 	STM32_PLC_LCD_Call_One_Button_Logic(65, 195, 300, 220);
 
+	/* Ask if */
+	if(STM32_PLC_LCD_Show_Question_Yes_No_Dialog("Do you want to set configuration?") == 0) {
+		STM32_PLC_LCD_Show_Main_Frame(frame_id, false);
+		return;
+	}
+
 	/* Enable the alarm A */
 	if(STM32_PLC_LCD_Show_Question_Yes_No_Dialog("Alarm A:Do you want to enable?") == 0) {
 		STM32_PLC_RTC_Enable_Alarm_A(false);
