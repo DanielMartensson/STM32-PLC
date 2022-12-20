@@ -35,7 +35,7 @@ static void send_back_alarm_b();
 
 void CDC_ReceiveCallback(uint8_t* receive_buf, uint32_t receive_len){
 	/* Toggle the USB LED */
-	HAL_GPIO_TogglePin(LED_USB_GPIO_Port, LED_USB_Pin);
+	STM32_PLC_LED_Set(LED_USB_PROCESS);
 
 	/* Read all bytes as they where packages */
 	uint32_t byte_index = 0;
@@ -84,6 +84,7 @@ void CDC_ReceiveCallback(uint8_t* receive_buf, uint32_t receive_len){
 			break;
 		default:
 			byte_index = receive_len; /* In case if the switch statement did not understand */
+			STM32_PLC_LED_Set(LED_USB_ERROR);
 		}
 	}
 }
@@ -99,11 +100,20 @@ static uint32_t read_can_bus_message_from_open_source_logger(uint32_t byte_index
 	TxHeader.ExtId = ID;
 	TxHeader.DLC = receive_buf[byte_index++];
 	uint8_t data[TxHeader.DLC];
-	for(uint8_t i = 0; i < TxHeader.DLC; i++)
-		data[i] = receive_buf[byte_index++];
+	/* We always sending 8 bytes of data */
+	for(uint8_t i = 0; i < 8; i++){
+		if(i < TxHeader.DLC){
+			data[i] = receive_buf[byte_index++];
+		}else{
+			byte_index++;
+		}
+	}
 	TxHeader.RTR = CAN_RTR_DATA;                                /* Data frame */
 	TxHeader.TransmitGlobalTime = DISABLE;
-	STM32_PLC_CAN_Transmit(data, &TxHeader);
+	STM32_PLC_LED_Set(LED_CAN_USB_PROCESS);
+	if(HAL_ERROR == STM32_PLC_CAN_Transmit(data, &TxHeader)){
+		STM32_PLC_LED_Set(LED_CAN_USB_ERROR);
+	}
 
 	/* Return byte index value */
 	return byte_index;

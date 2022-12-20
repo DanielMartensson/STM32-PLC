@@ -37,6 +37,13 @@ typedef enum{
 	SEND_BACK_ALARM_B_MESSAGE_TYPE
 }MESSAGE_TYPES;
 
+#define LED_USB_ERROR 0b101
+#define LED_CAN_ERROR 0b011
+#define LED_CAN_USB_ERROR 0b111
+#define LED_USB_PROCESS 0b100
+#define LED_CAN_PROCESS 0b010
+#define LED_CAN_USB_PROCESS 0b110
+
 /* Turn on the LED's */
 void STM32_PLC_LED();
 void STM32_PLC_LED_Set(uint8_t binary_value);

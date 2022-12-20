@@ -78,8 +78,8 @@ all: main-build
 main-build: PLC\ STM32.elf secondary-outputs
 
 # Tool invocations
-PLC\ STM32.elf PLC\ STM32.map: $(OBJS) $(USER_OBJS) C:\Users\danie\Documents\STM32CubeIDE-Workspace\PLC\ STM32\STM32F373VBTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "PLC STM32.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\danie\Documents\STM32CubeIDE-Workspace\PLC STM32\STM32F373VBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="PLC STM32.map" -Wl,--gc-sections -static -u _printf_float --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+PLC\ STM32.elf PLC\ STM32.map: $(OBJS) $(USER_OBJS) C:\Users\dmn\STM32Cube\Projekt\PLC\ STM32\STM32F373VBTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "PLC STM32.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\dmn\STM32Cube\Projekt\PLC STM32\STM32F373VBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="PLC STM32.map" -Wl,--gc-sections -static -u _printf_float --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

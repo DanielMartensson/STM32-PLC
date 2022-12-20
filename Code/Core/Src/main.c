@@ -42,7 +42,7 @@
 /* USER CODE END PM */
 
 /* Private variables ---------------------------------------------------------*/
- CAN_HandleTypeDef hcan;
+CAN_HandleTypeDef hcan;
 
 DAC_HandleTypeDef hdac1;
 DAC_HandleTypeDef hdac2;
@@ -162,6 +162,7 @@ int main(void)
 
   /* !!!Notice that   MX_DMA_Init(); must be after   MX_GPIO_Init(); !!! */
 
+
   /* Start PLC */
   STM32_PLC_Analog_Input(&htim12, &htim13, &hsdadc1, &hsdadc2, &hsdadc3);
   STM32_PLC_Analog_Output(&hdac1, &hdac2, &htim6);
@@ -268,11 +269,11 @@ static void MX_CAN_Init(void)
 
   /* USER CODE END CAN_Init 1 */
   hcan.Instance = CAN;
-  hcan.Init.Prescaler = 16;
+  hcan.Init.Prescaler = 12;
   hcan.Init.Mode = CAN_MODE_NORMAL;
   hcan.Init.SyncJumpWidth = CAN_SJW_1TQ;
-  hcan.Init.TimeSeg1 = CAN_BS1_2TQ;
-  hcan.Init.TimeSeg2 = CAN_BS2_3TQ;
+  hcan.Init.TimeSeg1 = CAN_BS1_6TQ;
+  hcan.Init.TimeSeg2 = CAN_BS2_1TQ;
   hcan.Init.TimeTriggeredMode = DISABLE;
   hcan.Init.AutoBusOff = DISABLE;
   hcan.Init.AutoWakeUp = DISABLE;

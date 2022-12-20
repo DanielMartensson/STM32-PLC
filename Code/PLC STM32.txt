@@ -1,6 +1,6 @@
 Configuration	PLC STM32
-STM32CubeMX 	6.5.0
-Date	05/27/2022
+STM32CubeMX 	6.6.1
+Date	12/20/2022
 MCU	STM32F373VBTx
 
 
@@ -330,7 +330,7 @@ SOFTWARE PROJECT
 
 Project Settings : 
 Project Name : PLC STM32
-Project Folder : C:\Users\danie\Documents\STM32CubeIDE-Workspace\PLC STM32
+Project Folder : C:\Users\dmn\STM32Cube\Projekt\PLC STM32
 Toolchain / IDE : STM32CubeIDE
 Firmware Package Name and Version : STM32Cube FW_F3 V1.11.3
 

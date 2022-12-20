@@ -50,41 +50,41 @@ Core/Src/STM32 PLC/LCD.o: ../Core/Src/STM32\ PLC/LCD.c \
  ../Core/Src/STM32\ PLC/Open\ SAE\ J1939/Open_SAE_J1939/Open_SAE_J1939.h \
  ../Core/Src/STM32\ PLC/Open\ SAE\ J1939/Open_SAE_J1939/../../Open\ SAE\ J1939/Open_SAE_J1939/Structs.h \
  ../Core/Src/STM32\ PLC/Open\ SAE\ J1939/Open_SAE_J1939/../../Open\ SAE\ J1939/SAE_J1939/SAE_J1939-21_Transport_Layer/Transport_Layer.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_group_function_value.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_group_function_value.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h \
  ../Core/Src/STM32\ PLC/Open\ SAE\ J1939/Open_SAE_J1939/../../Open\ SAE\ J1939/SAE_J1939/SAE_J1939-71_Application_Layer/Application_Layer.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_group_function_value.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_group_function_value.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h \
  ../Core/Src/STM32\ PLC/Open\ SAE\ J1939/Open_SAE_J1939/../../Open\ SAE\ J1939/SAE_J1939/SAE_J1939-73_Diagnostics_Layer/Diagnostics_Layer.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_group_function_value.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_group_function_value.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h \
  ../Core/Src/STM32\ PLC/Open\ SAE\ J1939/Open_SAE_J1939/../../Open\ SAE\ J1939/SAE_J1939/SAE_J1939-81_Network_Management_Layer/Network_Management_Layer.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h \
- ../Core/Src/STM32\ PLC/Open\ SAE\ J1939/Open_SAE_J1939/../../Open\ SAE\ J1939/SAE_J1939/SAE_J1939-81_Network_Management_Layer/../../../Open\ SAE\ J1939/SAE_J1939/SAE_J1939_Enums/Enum_Group_Function_Value.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h \
- c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_group_function_value.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h \
+ c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h \
  ../Core/Src/STM32\ PLC/Touch\ Screen/Hardware/ILI9341.h \
  ../Core/Src/STM32\ PLC/Touch\ Screen/Touch_screen.h \
  ../Core/Src/STM32\ PLC/Touch\ Screen/../Functions.h
@@ -140,41 +140,41 @@ Core/Src/STM32 PLC/LCD.o: ../Core/Src/STM32\ PLC/LCD.c \
 ../Core/Src/STM32\ PLC/Open\ SAE\ J1939/Open_SAE_J1939/Open_SAE_J1939.h:
 ../Core/Src/STM32\ PLC/Open\ SAE\ J1939/Open_SAE_J1939/../../Open\ SAE\ J1939/Open_SAE_J1939/Structs.h:
 ../Core/Src/STM32\ PLC/Open\ SAE\ J1939/Open_SAE_J1939/../../Open\ SAE\ J1939/SAE_J1939/SAE_J1939-21_Transport_Layer/Transport_Layer.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_group_function_value.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_group_function_value.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h:
 ../Core/Src/STM32\ PLC/Open\ SAE\ J1939/Open_SAE_J1939/../../Open\ SAE\ J1939/SAE_J1939/SAE_J1939-71_Application_Layer/Application_Layer.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_group_function_value.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_group_function_value.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h:
 ../Core/Src/STM32\ PLC/Open\ SAE\ J1939/Open_SAE_J1939/../../Open\ SAE\ J1939/SAE_J1939/SAE_J1939-73_Diagnostics_Layer/Diagnostics_Layer.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_group_function_value.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_group_function_value.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h:
 ../Core/Src/STM32\ PLC/Open\ SAE\ J1939/Open_SAE_J1939/../../Open\ SAE\ J1939/SAE_J1939/SAE_J1939-81_Network_Management_Layer/Network_Management_Layer.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h:
-../Core/Src/STM32\ PLC/Open\ SAE\ J1939/Open_SAE_J1939/../../Open\ SAE\ J1939/SAE_J1939/SAE_J1939-81_Network_Management_Layer/../../../Open\ SAE\ J1939/SAE_J1939/SAE_J1939_Enums/Enum_Group_Function_Value.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h:
-c:\users\danie\documents\stm32cubeide-workspace\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\open_sae_j1939\structs.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_control_byte.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm1_dm2.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_dm14_dm15.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_group_function_value.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_name.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_pgn.h:
+c:\users\dmn\stm32cube\projekt\plc\ stm32\core\src\stm32\ plc\open\ sae\ j1939\sae_j1939\sae_j1939_enums\enum_send_status.h:
 ../Core/Src/STM32\ PLC/Touch\ Screen/Hardware/ILI9341.h:
 ../Core/Src/STM32\ PLC/Touch\ Screen/Touch_screen.h:
 ../Core/Src/STM32\ PLC/Touch\ Screen/../Functions.h:

@@ -23,8 +23,10 @@ void STM32_PLC_CAN(CAN_HandleTypeDef *hcan) {
 }
 
 HAL_StatusTypeDef STM32_PLC_CAN_Transmit(uint8_t TxData[], CAN_TxHeaderTypeDef *TxHeader) {
+	/* Light up the CAN LED */
 	uint32_t TxMailbox;
-	return HAL_CAN_AddTxMessage(can_handler, TxHeader, TxData, &TxMailbox);
+	HAL_StatusTypeDef status = HAL_CAN_AddTxMessage(can_handler, TxHeader, TxData, &TxMailbox);
+	return status;
 }
 
 void STM32_PLC_CAN_Get_ID_Data(uint32_t *_ID, uint8_t data[], bool *_is_new_message){
@@ -35,7 +37,7 @@ void STM32_PLC_CAN_Get_ID_Data(uint32_t *_ID, uint8_t data[], bool *_is_new_mess
 
 /* Interrupt handler that read message */
 void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef *hcan) {
-	/* This this the message */
+	/* This is the message */
 	CAN_RxHeaderTypeDef rxHeader = {0};
 	if (HAL_CAN_GetRxMessage(can_handler, CAN_RX_FIFO0, &rxHeader, rxData) != HAL_OK)
 		Error_Handler();
@@ -65,8 +67,8 @@ void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef *hcan) {
 	/* Send the data */
 	CDC_Transmit_FS(send_data_array, index);
 
-	/* Toggle the CAN LED */
-	HAL_GPIO_TogglePin(LED_CAN_GPIO_Port, LED_CAN_Pin);
+	/* Light up the CAN LED */
+	STM32_PLC_LED_Set(LED_CAN_PROCESS);
 
 	/* Is new message */
 	is_new_message = true;

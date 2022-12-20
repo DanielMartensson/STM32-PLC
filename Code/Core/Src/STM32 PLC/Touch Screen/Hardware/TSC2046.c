@@ -156,6 +156,8 @@ void TSC2046_SetTouchCalibrationParameters(float Scale_X, float Scale_Y, float B
 	lcd.myTS_Calibrate.Bias_Y = Bias_Y;
 }
 
+#include <stdio.h>
+
 // Get touch screen data when calibration is already made
 void TSC2046_GetTouchData() {
 	// Reset
@@ -175,7 +177,6 @@ void TSC2046_GetTouchData() {
 	// Y-axis value
 	lcd.myTsData.Y = lcd.myTS_Calibrate.Scale_Y * lcd.localRawTouch.y_touch + lcd.myTS_Calibrate.Bias_Y;
 }
-
 
 bool TSC2046_isPressed() {
 	static uint8_t count = 0;
