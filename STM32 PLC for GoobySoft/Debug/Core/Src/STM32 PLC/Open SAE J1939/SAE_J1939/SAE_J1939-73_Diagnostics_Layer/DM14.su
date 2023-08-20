@@ -1,0 +1,2 @@
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-73_Diagnostics_Layer/DM14.c:18:25:SAE_J1939_Send_Request_DM14	24	static
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-73_Diagnostics_Layer/DM14.c:36:25:SAE_J1939_Read_Request_DM14	1848	static

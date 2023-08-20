@@ -1,0 +1,6 @@
+../Core/Src/STM32 PLC/CAN.c:44:6:STM32_PLC_CAN	48	static
+../Core/Src/STM32 PLC/CAN.c:53:19:STM32_PLC_CAN_Transmit	16	static
+../Core/Src/STM32 PLC/CAN.c:20:6:Callback_Function_Send	32	static
+../Core/Src/STM32 PLC/CAN.c:60:6:STM32_PLC_CAN_Get_ID_Data	8	static
+../Core/Src/STM32 PLC/CAN.c:31:6:Callback_Function_Read	32	static
+../Core/Src/STM32 PLC/CAN.c:70:6:HAL_CAN_RxFifo0MsgPendingCallback	40	static

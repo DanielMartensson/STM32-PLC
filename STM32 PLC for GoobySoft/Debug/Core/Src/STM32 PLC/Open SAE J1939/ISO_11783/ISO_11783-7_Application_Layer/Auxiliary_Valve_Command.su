@@ -1,0 +1,2 @@
+../Core/Src/STM32 PLC/Open SAE J1939/ISO_11783/ISO_11783-7_Application_Layer/Auxiliary_Valve_Command.c:18:25:ISO_11783_Send_Auxiliary_Valve_Command	16	static
+../Core/Src/STM32 PLC/Open SAE J1939/ISO_11783/ISO_11783-7_Application_Layer/Auxiliary_Valve_Command.c:32:6:ISO_11783_Read_Auxiliary_Valve_Command	8	static

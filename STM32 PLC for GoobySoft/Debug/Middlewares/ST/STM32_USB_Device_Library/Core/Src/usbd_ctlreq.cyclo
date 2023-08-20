@@ -1,0 +1,7 @@
+usbd_ctlreq.c:852:6:USBD_CtlError.constprop	1
+usbd_ctlreq.c:114:21:USBD_StdDevReq	56
+usbd_ctlreq.c:178:21:USBD_StdItfReq	7
+usbd_ctlreq.c:230:21:USBD_StdEPReq	27
+usbd_ctlreq.c:834:6:USBD_ParseSetupRequest	1
+usbd_ctlreq.c:852:6:USBD_CtlError	1
+usbd_ctlreq.c:868:6:USBD_GetString	4

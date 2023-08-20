@@ -1,0 +1,3 @@
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-81_Network_Management_Layer/Address_Claimed.c:18:25:SAE_J1939_Send_Request_Address_Claimed	16	static
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-81_Network_Management_Layer/Address_Claimed.c:30:25:SAE_J1939_Response_Request_Address_Claimed	16	static
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-81_Network_Management_Layer/Address_Claimed.c:48:6:SAE_J1939_Read_Response_Request_Address_Claimed	16	static

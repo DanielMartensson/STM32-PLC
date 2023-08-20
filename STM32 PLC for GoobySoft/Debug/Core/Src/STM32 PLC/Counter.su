@@ -1,0 +1,7 @@
+Counter.c:15:6:STM32_PLC_Start_Counters	16	static
+Counter.c:27:7:STM32_PLC_Encoder_Get	0	static
+Counter.c:38:9:STM32_PLC_Encoder_Get_Raw	0	static
+Counter.c:45:6:STM32_PLC_Encoder_Set_Pulses_Per_Revolutions	0	static
+Counter.c:49:6:STM32_PLC_Pulse_Count_Set	0	static
+Counter.c:53:10:STM32_PLC_Pulse_Count_Get	0	static
+Counter.c:57:6:STM32_PLC_Pulse_Count_Reset	0	static

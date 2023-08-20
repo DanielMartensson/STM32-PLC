@@ -1,0 +1,2 @@
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-21_Transport_Layer/Acknowledgement.c:14:6:SAE_J1939_Read_Acknowledgement	8	static
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-21_Transport_Layer/Acknowledgement.c:26:25:SAE_J1939_Send_Acknowledgement	24	static

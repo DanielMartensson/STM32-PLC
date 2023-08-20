@@ -1,0 +1,4 @@
+Analog_Output.c:35:6:STM32_PLC_Analog_Output_Set	4
+Analog_Output.c:52:6:STM32_PLC_Analog_Output_Reset	1
+Analog_Output.c:13:6:STM32_PLC_Analog_Output	4
+Analog_Output.c:57:10:STM32_PLC_Analog_Output_Get	4

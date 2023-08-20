@@ -1,0 +1,4 @@
+../Core/Src/STM32 PLC/Touch Screen/Frames/SAE J1939 Frames/SAE_J1939_Name_frame.c:109:13:show_name_frame	88	static
+../Core/Src/STM32 PLC/Touch Screen/Frames/SAE J1939 Frames/SAE_J1939_Name_frame.c:92:16:show_numpad_question	32	static
+../Core/Src/STM32 PLC/Touch Screen/Frames/SAE J1939 Frames/SAE_J1939_Name_frame.c:16:6:STM32_PLC_LCD_Show_SAE_J1939_This_ECU_Name_Frame	72	static
+../Core/Src/STM32 PLC/Touch Screen/Frames/SAE J1939 Frames/SAE_J1939_Name_frame.c:77:6:STM32_PLC_LCD_Show_SAE_J1939_Other_ECU_Name_Frame	24	static

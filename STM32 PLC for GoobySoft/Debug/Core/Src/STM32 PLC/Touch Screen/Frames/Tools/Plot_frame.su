@@ -1,0 +1,2 @@
+../Core/Src/STM32 PLC/Touch Screen/Frames/Tools/Plot_frame.c:80:13:add_spaces.constprop	8	static
+../Core/Src/STM32 PLC/Touch Screen/Frames/Tools/Plot_frame.c:14:6:STM32_PLC_LCD_Show_Plot_Frame	128	static

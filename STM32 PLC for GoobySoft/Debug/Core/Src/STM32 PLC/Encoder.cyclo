@@ -1,0 +1,5 @@
+Encoder.c:15:6:STM32_PLC_Encoder	5
+Encoder.c:38:9:STM32_PLC_Encoder_Get_Raw	4
+Encoder.c:51:7:STM32_PLC_Encoder_Get_Calibrated	1
+Encoder.c:55:6:STM32_PLC_Encoder_Set_Calibration	2
+Encoder.c:61:6:STM32_PLC_Encoder_Get_Calibration	1

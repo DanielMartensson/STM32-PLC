@@ -1,0 +1,2 @@
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-73_Diagnostics_Layer/DM16.c:18:25:SAE_J1939_Send_Binary_Data_Transfer_DM16	32	static
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-73_Diagnostics_Layer/DM16.c:58:6:SAE_J1939_Read_Binary_Data_Transfer_DM16	16	static

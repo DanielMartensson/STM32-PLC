@@ -1,0 +1,4 @@
+stm32f3xx_hal_pcd_ex.c:80:20:HAL_PCDEx_PMAConfig	3
+stm32f3xx_hal_pcd_ex.c:125:13:HAL_PCDEx_SetConnectionState	1
+stm32f3xx_hal_pcd_ex.c:142:13:HAL_PCDEx_LPM_Callback	1
+stm32f3xx_hal_pcd_ex.c:159:13:HAL_PCDEx_BCD_Callback	1

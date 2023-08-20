@@ -1,0 +1,5 @@
+SAE_J1939_Identifications_frame.c:172:13:fill_char_array	1
+SAE_J1939_Identifications_frame.c:108:13:show_identifications	4
+SAE_J1939_Identifications_frame.c:99:16:enter_identification	2
+SAE_J1939_Identifications_frame.c:16:6:STM32_PLC_LCD_Show_SAE_J1939_This_ECU_Identifications_Frame	20
+SAE_J1939_Identifications_frame.c:84:6:STM32_PLC_LCD_Show_SAE_J1939_Other_ECU_Identifications_Frame	1

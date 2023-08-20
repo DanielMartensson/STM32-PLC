@@ -1,0 +1,8 @@
+usbd_desc.c:223:11:USBD_FS_DeviceDescriptor	1
+usbd_desc.c:236:11:USBD_FS_LangIDStrDescriptor	1
+usbd_desc.c:364:13:IntToUnicode	3
+usbd_desc.c:281:11:USBD_FS_SerialStrDescriptor	2
+usbd_desc.c:268:11:USBD_FS_ManufacturerStrDescriptor	1
+usbd_desc.c:249:11:USBD_FS_ProductStrDescriptor	1
+usbd_desc.c:301:11:USBD_FS_ConfigStrDescriptor	1
+usbd_desc.c:320:11:USBD_FS_InterfaceStrDescriptor	1

@@ -1,0 +1,8 @@
+Analog_Input.c:83:6:STM32_PLC_Analog_Input_Get_Gain	4
+Analog_Input.c:103:6:STM32_PLC_Analog_Input_Set_Gain	10
+Analog_Input.c:19:6:STM32_PLC_Analog_Input	14
+Analog_Input.c:152:10:STM32_PLC_Analog_Input_ADC_Get_Raw	13
+Analog_Input.c:196:7:STM32_PLC_Analog_Input_ADC_Get_Calibrated	1
+Analog_Input.c:201:9:STM32_PLC_Analog_Input_DADC_Get_Raw	6
+Analog_Input.c:224:7:STM32_PLC_Analog_Input_DADC_Get_Calibrated	1
+Analog_Input.c:228:6:STM32_PLC_Analog_Input_Set_Calibration	2

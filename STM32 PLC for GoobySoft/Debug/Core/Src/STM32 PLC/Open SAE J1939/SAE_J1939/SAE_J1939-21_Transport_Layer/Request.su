@@ -1,0 +1,2 @@
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-21_Transport_Layer/Request.c:20:6:SAE_J1939_Read_Request	24	static
+../Core/Src/STM32 PLC/Open SAE J1939/SAE_J1939/SAE_J1939-21_Transport_Layer/Request.c:65:25:SAE_J1939_Send_Request	16	static

@@ -1,0 +1,9 @@
+stm32f3xx_hal_flash_ex.c:498:13:FLASH_MassErase	1
+stm32f3xx_hal_flash_ex.c:741:26:FLASH_OB_RDP_LevelConfig	3
+stm32f3xx_hal_flash_ex.c:311:19:HAL_FLASHEx_OBErase	4
+stm32f3xx_hal_flash_ex.c:360:19:HAL_FLASHEx_OBProgram	31
+stm32f3xx_hal_flash_ex.c:441:6:HAL_FLASHEx_OBGetConfig	2
+stm32f3xx_hal_flash_ex.c:463:10:HAL_FLASHEx_OBGetUserData	2
+stm32f3xx_hal_flash_ex.c:957:6:FLASH_PageErase	1
+stm32f3xx_hal_flash_ex.c:157:19:HAL_FLASHEx_Erase	7
+stm32f3xx_hal_flash_ex.c:238:19:HAL_FLASHEx_Erase_IT	4

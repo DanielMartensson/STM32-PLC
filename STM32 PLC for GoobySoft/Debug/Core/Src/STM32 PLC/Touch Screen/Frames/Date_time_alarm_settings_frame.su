@@ -1,0 +1,2 @@
+../Core/Src/STM32 PLC/Touch Screen/Frames/Date_time_alarm_settings_frame.c:134:16:show_numpad_question	32	static
+../Core/Src/STM32 PLC/Touch Screen/Frames/Date_time_alarm_settings_frame.c:14:6:STM32_PLC_LCD_Show_Date_Time_Alarm_Settings_Frame	136	static

@@ -1,0 +1,2 @@
+../Core/Src/STM32 PLC/LED.c:20:6:STM32_PLC_LED_Set	8	static
+../Core/Src/STM32 PLC/LED.c:10:6:STM32_PLC_LED	8	static

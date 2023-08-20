@@ -1,0 +1,6 @@
+LCD.c:130:6:STM32_PLC_LCD_Calibrate_Touch	2
+LCD.c:20:6:STM32_PLC_LCD	1
+LCD.c:140:6:STM32_PLC_LCD_Is_Pressed	1
+LCD.c:144:6:STM32_PLC_LCD_Get_Touch_Calibration_Parameters	1
+LCD.c:148:6:STM32_PLC_LCD_Set_Touch_Calibration_Parameters	1
+LCD.c:152:6:STM32_PLC_LCD_Get_Touch_Data	1
