@@ -28,7 +28,7 @@ void STM32_PLC_LCD_Show_About_STM32_PLC_Frame(uint8_t *frame_id){
 	ILI9341_print_text("of this PCB board in the C++ software:", 55, y += 10, COLOR_YELLOW, COLOR_NAVY, 1);
 	ILI9341_print_text("GoobySoft", 55, y += 10, COLOR_YELLOW, COLOR_NAVY, 1);
 	ILI9341_print_text("Whit that software, you can store data", 55, y += 10, COLOR_YELLOW, COLOR_NAVY, 1);
-	ILI9341_print_text("directly to a SQL database. Also control", 55, y += 10, COLOR_YELLOW, COLOR_NAVY, 1);
+	ILI9341_print_text("directly to multiple files. Also control", 55, y += 10, COLOR_YELLOW, COLOR_NAVY, 1);
 	ILI9341_print_text("the outputs of this PCB board. This STM32", 55, y += 10, COLOR_YELLOW, COLOR_NAVY, 1);
 	ILI9341_print_text("processor STM32F373VBT is written with C", 55, y += 10, COLOR_YELLOW, COLOR_NAVY, 1);
 	ILI9341_print_text("programming language. Visit:", 55, y += 10, COLOR_YELLOW, COLOR_NAVY, 1);
