@@ -35,6 +35,13 @@ The STM32 PLC has internal SAE J1939 protocol. Made from [Open-SAE-J1939](https:
 This is a QT C++ software that you can connect to your STM32 PLC board via the USB and then you can send signals from OpenSourceLogger and recieve signals.
 OpenSourceLogger is a very easy to use logging and controlling software and it stores data at a SQL server. 
 
+## GoobySoft
+This is a ImGui C++ project that do the same as OpenSourceLogger, but it's much better and have more features. The reason why I moved away from QT C++ to ImGui C++ is because
+it's much easier to write a GUI application in C++ by using ImGui instead of QT. With QT, you are stuck with object oriented programming. Everything is a class. 
+But for ImGui, you can choose which type of lever you want to code, I prefer C-style C++ code with a small dose of object oriented programming (if needed). 
+
+Consider that I will work on GoobySoft instead of OpenSourceLogger.
+
 ## Program 
 The STM32 PLC has a lot of functions you can select by touching the LCD. 
 
