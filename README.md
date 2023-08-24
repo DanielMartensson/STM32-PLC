@@ -12,7 +12,7 @@ This project is a PCB bord that has the following measurement and control input/
  * 1 x CAN-bus channel
  * 4 x Input Capture for 0 kHz to 10kHz
  * 3 x Encoder for -32768 to 32767 pulses
- * 1 x USB port for connecting with [OpenSourceLogger](https://github.com/DanielMartensson/OpenSourceLogger)
+ * 1 x USB port for connecting with [OpenSourceLogger](https://github.com/DanielMartensson/OpenSourceLogger) and [GoobySoft](https://github.com/DanielMartensson/GoobySoft)
  * 1 x SPI with 3 chip select for ILI9341 LCD with touch
  * 1 x ST-Link V2 connection
  * 1 x RTC clock with two alarms A(date) and B(week day) and a battery holder so the RTC remembers the date and time
