@@ -29,7 +29,7 @@ The documentation for the pin map can be found in the `Documentation` folder. Al
 Yes, it's possible to set the calibration to each input in this project. You need to have the ILI9341 touch LCD with SPI bus. Open the `STM32 PLC Pinouts.pdf` and see the connection for the LCD. You can also set the PWM frequency and analog input gain for the ADC and Differential ADC at 16-bit. 
 
 ## SAE J1939
-The STM32 PLC has internal SAE J1939 protocol. Made from [Open-SAE-J1939](https://github.com/DanielMartensson/Open-SAE-J1939).
+The STM32 PLC has internal SAE J1939 protocol. Made from [Open-SAE-J1939](https://github.com/DanielMartensson/Open-SAE-J1939) repository.
 
 ## OpenSourceLogger
 This is a QT C++ software that you can connect to your STM32 PLC board via the USB and then you can send signals from OpenSourceLogger and recieve signals.
